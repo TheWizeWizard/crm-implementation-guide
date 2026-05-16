@@ -47,4 +47,4 @@ HubSpot · Salesforce · Google Analytics · Google Ads · LinkedIn Ads · Zapie
 Built by a Marketing Operations professional with hands-on experience in
 CRM implementation, campaign operations, lead management, and marketing analytics.
 
-📫 Connect with me on [https://www.linkedin.com/in/ashuops/](#) — *(add your LinkedIn URL here)*
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ashuops/)
